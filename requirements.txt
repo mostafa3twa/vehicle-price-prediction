@@ -1,0 +1,11 @@
+# Core
+numpy>=2.1
+pandas>=2.2
+scikit-learn==1.6.1
+
+# Visualisation
+matplotlib>=3.8
+seaborn>=0.13
+
+# Running the notebook
+jupyter
